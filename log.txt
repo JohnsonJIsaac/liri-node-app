@@ -1,0 +1,140 @@
+User Command: node liri.js movie-this undefined
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this undefined
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this undefined
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 21 Oct 2006
+IMBD Rating: 6.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping over the edge into a series of guilt driven hallucinations. In the background a powerful figure is manipulating them both. Intertwined in this struggle for control is a well-meaning vigilante, who falls into the mystery of the perception of good and evil. As the threads untwine the distinctions between characters and their relationships breakdown to reveal a simple human need shared by all.
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+
+Title: Eraserhead
+
+Year: 1977
+
+IMDB: 7.4/10
+
+Rotten Tomatos: 90%
+
+Country: USA
+
+Language: English
+
+Plot: Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
+
+Actors: Jack Nance, Charlotte Stewart, Allen Joseph, Jeanne Bates
